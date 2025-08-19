@@ -1,4 +1,5 @@
 Sarim Ahmad (Turing-26)
+
 A passionate and versatile developer, based in Lahore.
 
 I specialize in building performant and scalable web applications, predominantly working with React, Next.js, TypeScript, and Python. Occasionally, I dive into C or C++, and I’m always eager to delve into low-level systems when the opportunity arises.
