@@ -1,5 +1,8 @@
-    👋 Hi, I’m @Turing-26
-    👀 I’m interested in all thing tech, i've been doing web development for a while now but will be looking to expand my horizons
-    🌱 I’m currently learning Computer Science at college
-    💞️ I’m looking to collaborate on anything i find interesting, leading to good learning experience
+Sarim Ahmad (Turing-26)
+A passionate and versatile developer pursuing a Computer Science degree, based in Rawalpindi.
 
+I specialize in building performant and scalable web applications, predominantly working with React, Next.js, TypeScript, and Python. Occasionally, I dive into C, and I’m always eager to delve into low-level systems when the opportunity arises.
+
+I thrive on turning creative ideas into impactful code—whether crafting seamless user experiences through modern web stacks or digging into the fundamentals of how things work at the system level.
+
+I’m open to collaboration on projects that offer meaningful learning, growth, and innovation.
